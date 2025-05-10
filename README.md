@@ -1,21 +1,21 @@
 # 📱 ***WELLBOOK***
 
-## 📌 Descrizione
-App Android sviluppata in Kotlin come progetto personale. L'app consente di **inserire, modificare e gestire prenotazioni**, con la possibilità di **assegnarle a una persona specifica**. Pensata per semplificare l’organizzazione di appuntamenti o attività, offre un'interfaccia semplice e intuitiva per una gestione veloce e ordinata.
-L’obiettivo del progetto era esplorare lo sviluppo mobile con Kotlin e la gestione dello stato.
+## 📌 Description
+Android app developed in Kotlin as a personal project. The app allows you to **enter, edit and manage reservations**, with the ability to **assign them to a specific person**. Designed to simplify the organization of appointments or activities, it offers a simple and intuitive interface for quick and orderly management.
+The goal of the project was to explore mobile development with Kotlin and status management.
 
-## 🛠️ Tecnologie utilizzate
-- **Kotlin** + **Android SDK**
-- **Room** per la persistenza dei dati
-- **LiveData** e **ViewModel** per la gestione dello stato
-- **Navigation Component** per la navigazione tra fragment
-- **Material Design** per UI/UX
-- **Coroutines** per operazioni asincrone
-- **Hilt** per l'iniezione delle dipendenze
+## 🛠️ Tech stack
+- **Kotlin** + **Android SDK**.
+- **Room** for data persistance.
+- **LiveData** and **ViewModel** for state management.
+- **Navigation Component** for fragment navigation.
+- **Material Design** for UI/UX
+- **Coroutines** for asynchronous operations
+- **Hilt** for DI(Dependency injection)
 - Testing: JUnit, Espresso
 
-## 🚀 Come avviare il progetto
+## 🚀 Hot to start the project:
 
-1. Clona il repository:
+1. Clona the repository:
 ```bash
 git clone https://github.com/Kikkocrypto/Wellbook-APP
